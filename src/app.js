@@ -4,14 +4,18 @@ import "./styles.css";
 export default function App() {
   const PhoneObjects = {
     Iphone: [
+      { name: "IPhone 13 pro ", rating: "5/5" },
       { name: "IPhone 13 ", rating: "5/5" },
-      { name: "IPhone 13 mini", rating: "5/5" }
+      { name: "IPhone 13 mini", rating: "5/5" },
+      
     ],
     Samsung: [
+      { name: "Samsung S21 ", rating: "4.7/5" },
       { name: "Samsung S20 ", rating: "4.5/5" },
       { name: "Samsung Z series", rating: "4/5" }
     ],
     Oneplus: [
+      { name: "Oneplus 9T ", rating: "4.3/5" },
       { name: "Oneplus 9 ", rating: "4.2/5" },
       { name: "Oneplus nord 2", rating: "3.8/5" }
     ]
