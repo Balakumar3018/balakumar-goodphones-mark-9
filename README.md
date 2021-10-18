@@ -1,5 +1,5 @@
 Title: \
-Goodphones \
+Goodphones 
 
 Description: \
 This app recommends good phones with ratings and specs \
